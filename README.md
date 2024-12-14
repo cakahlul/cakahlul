@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cakahlul or you can call me Ahlul
-- 👀 I’m interested in Web app and Mobile app development
-- 🌱 I’m always learning
-- 💞️ I’m looking to collaborate on Mobile app and Web app development
+- 👀 I’m interested in Web application development
+- 💞️ I’m looking to collaborate Web application development
 <!-- - 📫 How to reach me ... -->
 📫 You can reach me on cakahlul@gmail.com
 
